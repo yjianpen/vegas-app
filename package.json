@@ -1,0 +1,19 @@
+{
+  "name": "vegas-app",
+  "version": "1.0.0",
+  "description": "A project that tries to build a probablistic learning website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjianpen/vagas-app.git"
+  },
+  "author": "Jianpeng Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjianpen/vagas-app/issues"
+  },
+  "homepage": "https://github.com/yjianpen/vagas-app#readme"
+}
