@@ -112,3 +112,13 @@ console.log(p1.reduce_modp(4));
 console.log(p1.addition(p1.generator,p1.generator));
 console.log(p1.multiple(3,p1.generator));
 console.log(p1.is_point_on_curve(8,12))
+//const p = 26959946667150639794667015087019630673557916260026308143510066298881;
+//const a = -3;
+//const b = 18958286285566608000408668544493926415504680968679321075787234672564;
+//const Gx = 19277929113566293071110308034699488026831934219452440156649784352033;
+//const Gy = 19926808758034470970197974370888749184205991990603949537637343198772;
+//const kappa = 35;
+//const G = [Gx,Gy];
+//const p224 = new elliptic_curve(p, a, b, G, kappa);
+//console.log(p224.multiple(3,p224.generator));
+
